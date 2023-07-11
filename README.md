@@ -31,16 +31,15 @@ Sonuç olarak, bu projede C programlama dilindeki temel becerilerimi geliştirer
 - Basit / Orta / Zor Şifre Üretici
 - Şifre Güvenlik Testi Uygulaması
 - Metin Şifreleme / Şifre Çözme
-- Parola Kırma Saldırısı Simülatörü
 - Kelime, Karakter Sayacı
 - Lorem Impsum Oluşturucu
-- Fotoğraf'tan ASCII Sanat Oluşturucu
+- Parola Kırma Saldırısı Simülatörü
 - Fotoğraf'a Siyah Beyaz Efekt Verici
+- Fotoğraf'tan ASCII Sanat Oluşturucu
 - Dosya Şifreleme
 - Dosya Sıkıştırma
 
 
-  
 ## Kullanılan Teknoloji
 
 **Dil:** C
