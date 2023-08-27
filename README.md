@@ -25,14 +25,6 @@ In summary, by developing my fundamental skills in the C programming language th
   
 ## Features
 
-- Finding the Area and Circumference of a Circle: A program that calculates the area and circumference of a circle.
-
-- Finding the Area of an Equilateral Triangle: A program that calculates the area of an equilateral triangle.
-
-- Determining the Sizes of int, float, double, char: A program that determines the sizes (in bytes) of int, float, double, and char data types.
-
-- Binary to Decimal Conversion: A program that converts a binary number to its decimal equivalent.
-
 - Decimal to Binary Conversion: A program that converts a decimal number to its binary equivalent.
 
 - Octal to Decimal Conversion: A program that converts an octal number to its decimal equivalent.
@@ -41,10 +33,7 @@ In summary, by developing my fundamental skills in the C programming language th
 
 - Octal to Binary Conversion: A program that converts an octal number to its binary equivalent.
 
-- Checking if a Given Character is a Vowel or Consonant: A program that determines if a given character is a vowel or consonant.
-
 - Finding the ASCII Value of a Character: A program that finds the ASCII value of a given character.
-
 
 ## Technologies Used
 
